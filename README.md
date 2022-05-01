@@ -1,6 +1,6 @@
-# HW4-Tester
+# HW10-Tester
 
-Tests for CS540 Spring 2022 HW4: Clustering
+Tests for CS540 Spring 2022 HW10: Reinforcement Learning
 * More tests needed, please feel free to contribute. *
 
 ## Changes
