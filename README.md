@@ -11,7 +11,7 @@ Tests for CS540 Spring 2022 HW10: Reinforcement Learning
 
 ## Usage
 
-Download [tests.py](tests.py), [Q_learning.csv](Q_learning.py), and move them into the same directory. In order for tests.py to successfully run, it requires (Q_TABLE.pkl) which is created by running [Q_learning.csv](Q_learning.py). 
+Download [tests.py](tests.py), [Q_learning.csv](Q_learning.py), and move them into the same directory. In order for tests.py to successfully run, it requires (Q_TABLE.pkl) which is created by running [Q_learning.py](Q_learning.py). 
 
 The contents of your directory should look like this:
 
